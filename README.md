@@ -26,10 +26,17 @@ TBD
 ### Macros
 
 M0: Ctrl + Left -> Change to left workspace in Mac
+
 M1: Ctrl + Right -> Change to right workspace in Mac
+
 M2: ñ
+
 M3: LGUI(LSFT(KC_S)) -> Screenshot on Win
+
 M4: RWin + Alt + Left -> Move to left browser tab
+
 M5: RWin + Alt + Right -> Move to right browser tab
+
 M6: LGUI(LSFT(LCTL(KC_4))) -> Copy portion of screen into clipboard (Mac)
+
 M7: LGUI(LSFT(LCTL(KC_4))) -> Capture portion of screen into Preview (Mac)
